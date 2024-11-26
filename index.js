@@ -7,3 +7,5 @@ function myFun(){
 }
 
 const hubby = 'reading';
+
+const newVar = "feat";
